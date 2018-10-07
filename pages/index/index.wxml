@@ -1,0 +1,4 @@
+<view class="container">
+    <input  placeholder="输入快递单号"/>
+    <button bindtap="">查询</button>
+</view>
